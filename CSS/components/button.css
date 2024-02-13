@@ -1,0 +1,17 @@
+/*navbarre*/
+
+.bouton-rose {
+    text-align: right;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #222222;
+    margin: 12px;
+    padding: 12px 16px;
+    transition: 1s;
+    text-decoration: none;
+}
+
+.bouton-rose:hover {
+    text-align: end;
+    color: rgb(0, 60, 255);
+    transition: 1s;
+}

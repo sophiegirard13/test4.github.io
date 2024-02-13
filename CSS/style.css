@@ -1,0 +1,41 @@
+
+@import url(CSS/Component/button.css);
+@import url(CSS/Component/textes.css);
+@import url(CSS/Component/picture.css);
+@import url(CSS/Component/footer.css);
+
+
+body{
+    background-color: #dfdfdf;
+}
+
+/*star*/
+
+div {
+    display: flex;
+    justify-content: center;
+}
+
+/*taille etoile*/
+
+.star {
+    width: 60px;
+}
+
+/*imagegauche*/
+
+  .imagegauche {
+    width: 400px;
+    border-radius: 5%;
+    justify-content: left; 
+  }
+
+
+/*logo*/
+
+.logo {
+    width: 40px;
+}
+
+
+
